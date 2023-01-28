@@ -1,4 +1,4 @@
-# JSDoc Boilerplate
+# JSDoc Boilerplate (본인 소개, 프로젝트 소개 등 작성예정)
 
 ## Usage
 
